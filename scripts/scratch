@@ -1,0 +1,53 @@
+function generate($statement){
+     $sql = 'SELECT * FROM ksa_';
+
+    $core = Core::getInstance();
+
+    $stmt = $core->dbh->prepare($statement);
+    /*$stmt->bindParam(':id', $this->id, PDO::PARAM_INT);*/
+
+    if ($stmt->execute()) {
+        $o = $stmt->fetchAll();
+        
+        echo "<table>";
+        echo "<th>Whatever</th>";
+        echo "<tr><td>Course</td><td>ksa</td><td>description</td><td>Category</td></tr>";
+        
+        foreach($o as $row){
+            echo "<tr>";
+            echo "<td>" . $row['course'] . "</td>";
+            echo "<td>" . $row['ksa'] . "</td>";
+            echo "<td>" . $row['description'] ."</td>";
+            echo "<td>" . $row['category'] ."</td>";
+            echo "</tr>";
+        };
+        echo "</table>";
+    };
+};
+
+
+
+
+
+
+
+
+
+
+<?php
+                $connect = mysql_connect("localhost","eignh", "#mountain08");
+                if (!$connect) {
+                    die(mysql_error());
+                }
+                mysql_select_db("ksa_one");
+                $results = mysql_query("SELECT * FROM ksa LIMIT 10");
+                while($row = mysql_fetch_array($results)) {
+                    ?>
+                    <tr>
+                        <td><?php echo $row['KSA_ID']?></td>
+                        <td><?php echo $row['Statement']?></td>
+                    </tr>
+
+                    <?php
+                }
+                ?>

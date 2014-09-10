@@ -1,0 +1,6 @@
+join queries document
+
+SELECT course.ID, course.CourseName, outcomes.CourseID, outcomes.OutcomeStmt
+FROM course
+INNER JOIN outcomes
+ON course.ID = outcomes.courseID;

@@ -1,0 +1,646 @@
+Course,KSA,KSA Description,Category,Objective
+CIT130,3,Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems,Vulnerabilities Assessment,
+CIT130,4,Ability to identify systemic security issues based on the analysis of vulnerability and configuration data,Vulnerabilities Assessment,
+CIT130,5,Ability to match the appropriate knowledge repository technology for a given application or environment,Knowledge Management,
+CIT130,7,Knowledge of ?knowledge base? capabilities for identifying the solutions to less common and more complex system problems,Knowledge Management,
+CIT130,8,Knowledge of access authentication methods,Identity Management,
+CIT130,9,Knowledge of applicable business processes and operations of customer organizations,Requirements Analysis,
+CIT130,10,Knowledge of application vulnerabilities,Vulnerabilities Assessment,
+CIT130,12,"Knowledge of communication methods, principles, and concepts (e.g., cryptography, dual hubs, time multiplexers) that support the network infrastructure",Infrastructure Design,"2.Describe how data is communicated as a signal      4. Discuss the structure and components of business phone and data networks 7. Demonstrate knowledge of media, topologies, hub/switches, routers, and network interface cards "
+CIT130,15,"Knowledge of capabilities and applications of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware",Hardware,"7. Demonstrate knowledge of media, topologies, hub/switches, routers, and network interface cards 13. Explain the role of clients, servers and associated security issues "
+CIT130,16,Knowledge of capabilities and requirements analysis,Requirements Analysis,
+CIT130,17,Knowledge of certified ethical hacking principles and techniques,Vulnerabilities Assessment,
+CIT130,18,Knowledge of circuit analysis,Computers and Electronics,
+CIT130,19,"Knowledge of Computer Network Defense tools, including open source tools, and their capabilities",Computer Network Defense,
+CIT130,20,Knowledge of complex data structures,Object Technology,
+CIT130,21,Knowledge of computer algorithms,Mathematical Reasoning,
+CIT130,22,Knowledge of computer networking fundamentals,Infrastructure Design,4. Discuss the structure and components of business phone and data networks 
+CIT130,23,Knowledge of computer programming principles such as object-oriented design,Object Technology,
+CIT130,24,Knowledge of concepts and practices of processing digital forensic data,Data Management,
+CIT130,25,"Knowledge of critical protocols (e.g., IPSEC, AES, GRE, IKE, MD5, SHA, 3DES).",Cryptography,
+CIT130,27,Knowledge of cryptology,Cryptography,
+CIT130,28,Knowledge of data administration and data standardization policies and standards,Data Management,3. Explain and identify the role of standards and standards organizations in the data communications market place   
+CIT130,29,"Knowledge of data backup, types of backups (e.g., full, incremental), and recovery concepts and tools",Computer Forensics,
+CIT130,31,Knowledge of data mining and data warehousing principles,Data Management,
+CIT130,32,"Knowledge of database management systems, query languages, table relationships, and views",Database Management Systems,
+CIT130,33,Knowledge of database procedures used for documenting and querying reported incidents,Incident Management,
+CIT130,34,Knowledge of database systems,Database Management Systems,
+CIT130,35,Knowledge of digital rights management,Encryption,
+CIT130,37,Knowledge of disaster recovery and continuity of operations plans.,Incident Management,
+CIT130,38,Knowledge of organization's enterprise information security architecture system,Information Assurance,
+CIT130,40,Knowledge of organization's evaluation and validation requirements,Systems Testing and Evaluation,
+CIT130,41,Knowledge of organization's Local Area Network (LAN)/Wide Area Network (WAN) pathways,Infrastructure Design,4. Discuss the structure and components of business phone and data networks  6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,42,"Knowledge of electrical engineering as applied to computer architecture, including circuit boards, processors, chips, and associated computer hardware",Hardware Engineering,
+CIT130,43,Knowledge of embedded systems,Embedded Computers,
+CIT130,44,Knowledge of enterprise messaging systems and associated software,Enterprise Architecture,
+CIT130,46,Knowledge of fault tolerance,Information Assurance,
+CIT130,49,"Knowledge of host/network access controls (e.g., access control list)",Information Systems/Network Security,
+CIT130,50,Knowledge of how network services and protocols interact to provide network communications,Infrastructure Design,6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,51,"Knowledge of how system components are installed, integrated, and optimized",Systems Integration,
+CIT130,52,Knowledge of human-computer interaction principles,Human Factors,
+CIT130,53,Knowledge of the Security Assessment and Authorization (SA&A) process,Information Assurance,
+CIT130,55,"Knowledge of Information assurance (IA) principles used to manage risks related to the use, processing, storage, and transmission of information or data",Information Assurance,
+CIT130,56,Knowledge of information assurance (IA) principles and methods that apply to software development,Information Assurance,
+CIT130,58,"Knowledge of known vulnerabilities from alerts, advisories, errata, and bulletins ",Information Systems/Network Security,
+CIT130,59,Knowledge of Intrusion Detection System (IDS) tools and applications,Computer Network Defense,
+CIT130,60,"Knowledge of incident categories, incident responses, and timelines for responses",Incident Management,
+CIT130,61,Knowledge of incident response and handling methodologies,Incident Management,
+CIT130,62,Knowledge of industry-standard and organizationally accepted analysis principles and methods,Logical Systems Design,
+CIT130,63,"Knowledge of Information Assurance principles and tenets (confidentiality, integrity, availability, authentication, non-repudiation).",Information Assurance,
+CIT130,64,Knowledge of information security systems engineering principles,Information Systems/ Network Security,
+CIT130,65,Knowledge of information theory,Mathematical Reasoning,
+CIT130,66,Knowledge of intrusion detection methodologies and techniques for detecting host- and network-based intrusions via intrusion detection technologies,Computer Network Defense,
+CIT130,68,Knowledge of information technology (IT) architectural concepts and frameworks,Information Technology Architecture,
+CIT130,69,Knowledge of Risk Management Framework (RMF) requirements,Information Systems Security Certification,
+CIT130,70,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)",Information Systems/Network Security,
+CIT130,72,"Knowledge of local area network (LAN) and wide area network (WAN) principles and concepts, including bandwidth management",Infrastructure Design,4. Discuss the structure and components of business phone and data networks  6. Describe the operation of common Local Area and Wide Area network protocols  11. Identify concerns and potential solutions for bandwidth constraints 
+CIT130,74,"Knowledge of low level computer languages (e.g., assembly languages)",Computer Languages,
+CIT130,75,"Knowledge of mathematics, including logarithms, trigonometry, linear algebra, calculus, and statistics",Mathematical Reasoning,
+CIT130,76,Knowledge of measures or indicators of system performance and availability,Information Technology Performance Assessment,
+CIT130,77,"Knowledege of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures, utilizing standards-based concepts and capabilities",Information Systems/Network Security,3. Explain and identify the role of standards and standards organizations in the data communications market place   12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,78,Knowledge of microprocessors,Computers and Electronics,
+CIT130,79,"Knowledge of network access, identity, and access management (e.g., public key infrastructure [PKI])",Identity Management,
+CIT130,81,"Knowledge of network communication protocols such as TCP/IP, Dynamic Host Configuration, Domain Name Server (DNS), and directory services",Infrastructure Design,4. Discuss the structure and components of business phone and data networks  6. Describe the operation of common Local Area and Wide Area network protocols  9. Review the history and operations of the TCP/IP protocol suite   
+CIT130,82,"Knowledge of network design processes, to include understanding of security objectives, operational objectives, and tradeoffs",Infrastructure Design,
+CIT130,83,Knowledge of network hardware devices and functions,Hardware,
+CIT130,87,Knowledge of network traffic analysis methods,Information Systems/Network Security,
+CIT130,88,Knowledge of new and emerging information technology (IT) and information security technologies,Technology Awareness,12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,89,Knowledge of new technological developments in server administration,Technology Awareness,
+CIT130,90,Knowledge of operating systems,Operating Systems,14.  Describe Network Operating Systems 
+CIT130,92,"Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP], Open System Interconnection model [OSI], Information Technology Infrastructure Library, v3 [ITIL])",Infrastructure Design,4. Discuss the structure and components of business phone and data networks  5. Describe the seven layers of the OSI model; identify the major functions of each layer and its use in the business communications process 9.Review the history and operations of the TCP/IP protocol suite 10. Discuss the structure and operation of the Internet and its importance to business today 
+CIT130,93,Knowledge of packet-level analysis,Vulnerabilities Assessment,
+CIT130,94,Knowledge of parallel and distributed computing concepts,Information Technology Architecture,
+CIT130,95,"Knowledge of penetration testing principles, tools, and techniques (e.g., metasploit, neosploit)",Vulnerabilities Assessment,
+CIT130,96,Knowledge of performance tuning tools and techniques,Information Technology Performance Assessment,
+CIT130,98,Knowledge of policy-based and risk adaptive access controls,Identity Management,
+CIT130,99,Knowledge of principles and methods for integrating server components,Systems Integration,
+CIT130,100,Knowledge of Privacy Impact Assessments (PIA),Personnel Safety and Security,
+CIT130,101,Knowledge of process engineering concepts,Logical Systems Design,
+CIT130,102,Knowledge of programming language structures and logic,Computer Languages,
+CIT130,104,Knowledge of query languages such as Strcutured Query Language (SQL),Database Management Systems,
+CIT130,105,"Knowledge of legal governance related to Computer Network Defense (e.g., Chairman of the Joint Chief of Staff Manual, Executive Order 12333), computer monitoring, and collection.","Legal, Government and Jurisprudence",
+CIT130,106,Knowledge of remote access technology concepts,Information Technology Architecture,
+CIT130,107,Knowledge of resource management principles and techniques,Project Management,
+CIT130,108,"Knowledge of risk management processes, including steps and methods for assessing risk",Risk Management,
+CIT130,109,Knowledge of secure configuration management techniques,Configuration Management,
+CIT130,110,Knowledge of security management,Information Assurance,12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,111,"Knowledge of security system design tools, methods, and techniques",Information Systems/Network Security,
+CIT130,112,"Knowledge of server administration and systems engineering theories, concepts, and methods",Systems Life Cycle,
+CIT130,113,Knowledge of server and client operating systems  ,Operating Systems,"13. Explain the role of clients, servers and associated security issues 14.  Describe Network Operating Systems "
+CIT130,114,Knowledge of server diagnostic tools and fault identification techniques,Computer Forensics,
+CIT130,115,Knowledge of content development,Computer Network Defense,
+CIT130,116,Knowledge of software debugging principles,Software Development,
+CIT130,117,"Knowledge of software design tools, methods, and techniques",Software Development,
+CIT130,118,"Knowledge of software development models (e.g., waterfall model, spiral model)",Software Engineering,
+CIT130,119,Knowledge of software engineering,Software Engineering,
+CIT130,120,"Knowledge of sources, characteristics, and uses of the organization?s data assets",Data Management,
+CIT130,121,Knowledge of structured analysis principles and methods,Logical Systems Design,
+CIT130,122,Knowledge of system administration concepts for Unix/Linux and/or Windows operating systems.,Operating Systems,14.  Describe Network Operating Systems 
+CIT130,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,
+CIT130,124,"Knowledge of system design tools, methods, and techniques, including automated system analysis and design tools",Logical Systems Design,
+CIT130,126,"Knowledge of system software and organizaional design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design",Requirements Analysis,
+CIT130,127,Knowledge of systems administration concepts,Operating Systems,
+CIT130,128,Knowledge of systems diagnostic tools and fault identification techniques,Systems Testing and Evaluation,
+CIT130,129,"Knowledge of systems lifecycle management principles, including software security and usability",Systems Life Cycle,
+CIT130,130,Knowledge of systems testing and evaluation methods,Systems Testing and Evaluation,
+CIT130,132,Knowledge of technoloy integration processes,Systems Integration,
+CIT130,133,Knowledge of telecommunications concepts,Telecommunications,2. Describe how data is communicated as a signal     8.  Identify and contrast enabling technologies in both the business network environment as well as for residential applications
+CIT130,134,"Knowledge of the capabilities and functionality associated with various content creation technologies (e.g., wikis, social networking, blogs)",Technology Awareness,
+CIT130,135,"Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)",Data Management,
+CIT130,136,"Knowledge of the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint)",Technology Awareness,
+CIT130,137,Knowledge of the characteristics of physical and virtual data storage media,Data Management,
+CIT130,138,Knowledge of the computer network defense (CND) service provider reporting structure and processes within one?s own organization,Information Systems/Network Security,
+CIT130,139,"Knowledge of common networking protocols (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP]) and services (e.g., web, mail, Domain Name System [DNS]) and how they interact to provide network communications",Infrastructure Design,4. Discuss the structure and components of business phone and data networks 6. Describe the operation of common Local Area and Wide Area network protocols  ?   9.  Review the history and operations of the TCP/IP protocol suite  10. Discuss the structure and operation of the Internet and its importance to business today 
+CIT130,141,Knowledge of the enterprise information technology (IT) architecture,Information Technology Architecture,
+CIT130,142,Knowledge of the operations and processes for diagnosing common or recurring system problems,Systems Life Cycle,
+CIT130,143,Knowledge of the organization?s enterprise information technology (IT) goals and objectives,Enterprise Architecture,
+CIT130,144,Knowledge of the systems engineering process,Systems Life Cycle,
+CIT130,145,Knowledge of the type and frequency of routine maintenance needed to keep equipment functioning properly.,Systems Life Cycle,
+CIT130,146,Knowledge of the types of Intrusion Detection System (IDS) hardware and software,Computer Network Defense,
+CIT130,148,Knowledge of VPN security.,Encryption,
+CIT130,149,"Knowledge of web services, including service oriented architecture, Simple Object Access Protocol (SOAP), and web service description language",Web Technology,
+CIT130,150,Knowledge of what constitutes a network attack and the relationship to both threats and vulnerabilities,Information Systems/Network Security,
+CIT130,152,Skill in allocating storage capacity in the design of data management systems,Database Administration,
+CIT130,153,Skill in handling malware,Computer Network Defense,
+CIT130,154,Skill in analyzing network traffic capacity and performance characteristics,Capacity Management,
+CIT130,155,Skill in applying and incorporating information technologies into proposed solutions,Technology Awareness,
+CIT130,156,"Skill in applying confidentiality, integrity, and availability principles",Information Assurance,
+CIT130,157,"Skill in applying host/network access controls (e.g., access control list)",Identity Management,
+CIT130,158,Skill in applying organization-specific systems analysis principles and techniques,Systems Testing and Evaluation,
+CIT130,160,Skill in assessing the robustness of security systems and designs,Vulnerabilities Assessment,
+CIT130,162,Skill in conducting capabilities and requirements analysis,Requirements Analysis,
+CIT130,163,Skill in conducting information searches,Computer Skills,
+CIT130,164,Skill in conducting knowledge mapping (map of knowledge repositories),Knowledge Management,
+CIT130,165,Skill in conducting open source research for toubleshooting novel client-level problems,Knowledge Management,
+CIT130,166,Skill in conducting queries and developing algorithms to analyze data structures,Database Management Systems,
+CIT130,167,"Skill in conducting server planning, management, and maintenance",Network Management,
+CIT130,168,Skill in conducting software debugging,Software Development,
+CIT130,169,Skill in conducting test events,Systems Testing and Evaluation,
+CIT130,170,Skill in configuring and optimizing software,Software Engineering,
+CIT130,171,Skill in correcting physical and technical problems which impact server performance,Network Management,
+CIT130,172,Skill in creating and utilizing mathematical or statistical models,Modeling and Simulation,
+CIT130,173,Skill in creating policies that relfect system security objectives,Information Systems Security Certification,
+CIT130,174,"Skill in creating programs that validate and process multiple inputs, including command line arguments, environmental variables, and input streams",Software Testing and Evaluation,
+CIT130,175,Skill in developing and deploying signatures,Information Systems/Network Security,
+CIT130,176,"Skill in designing a data analysis structure (i.e., the types of data your test must generate and how to analyze those data)",Systems Testing and Evaluation,
+CIT130,177,Skill in designing countermeasures to identified security risks,Vulnerabilities Assessment,
+CIT130,178,Skill in designing databases,Database Administration,
+CIT130,179,Skill in designing security controls based on information assurance (IA) principles and tenets,Information Assurance,
+CIT130,180,Skill in designing the integration of hardware and software solutions,Systems Integration,
+CIT130,181,"Skill in detecting host and network based intrusions via intrusion detection technologies (e.g., Snort)",Computer Network Defense,
+CIT130,182,Skill in determining an appropriate level of test rigor for a given system,Systems Testing and Evaluation,
+CIT130,183,"Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes",Information Assurance,
+CIT130,185,"Skill in developing applications that can log errors, exceptions, and application faults and logging",Software Development,
+CIT130,186,Skill in developing data dictionaries,Data Management,
+CIT130,187,Skill in developing data models,Modeling and Simulation,
+CIT130,188,Skill in developing data repositories,Data Management,
+CIT130,190,Skill in developing operations-based testing scenarios,Systems Testing and Evaluation,
+CIT130,191,Skill in developing and applying security system access controls,Identity Management,
+CIT130,193,"Skill in developing, testing, and implementing network infrastructure contingency and recovery plans",Information Assurance,
+CIT130,194,Skill in diagnosing connectivity problems,Network Management,
+CIT130,195,Skill in diagnosing failed servers,Network Management,
+CIT130,197,"Skill in discerning the protection needs (i.e., security controls) of information systems and networks",Information Systems/Network Security,12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,198,Skill in establishing a routing schema,Infrastructure Design,
+CIT130,199,Skill in evaluating the adequacy of security designs,Vulnerabilities Assessment,
+CIT130,201,Skill in generating queries and reports,Database Management Systems,
+CIT130,202,"Skill in identifying and anticipating server performance, availability, capacity, or configuration problems",Information Technology Performance Assessment,
+CIT130,203,"Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system",Information Technology Performance Assessment,
+CIT130,204,Skill in identifying possible causes of degradation of system performance or availability and initiating actions needed to mitigate this degradation,Systems Life Cycle,
+CIT130,205,"Skill in implementing, maintaining, and improving established security practices",Information Systems/Network Security,
+CIT130,206,Skill in installing computer and server upgrades,Systems Life Cycle,
+CIT130,207,"Skill in installing, configuring, and troubleshooting local area network (LAN) and wide area network (WAN)",,6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,208,Skill in maintaining databases,Database Management Systems,
+CIT130,209,Skill in maintaining directory services,Identity Management,
+CIT130,210,Skill in mimicking threat behaviors,Computer Network Defense,
+CIT130,211,Skill in monitoring and optimizing server performance,Information Technology Performance Assessment,
+CIT130,212,Skill in network mapping and recreating network topologies,Infrastructure Design,"7. Demonstrate knowledge of media, topologies, hub/switches, routers, and network interface cards"
+CIT130,213,Skill in optimizing database performance,Database Administration,
+CIT130,214,"Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)",Vulnerabilities Assessment,9. Review the history and operations of the TCP/IP protocol suite 
+CIT130,216,Skill in recovering failed servers,Incident Management,
+CIT130,217,Skill in preserving evidence integrity according to standard operating procedures or national standards,Computer Forensics,
+CIT130,219,Skill in system administration for Unix/Linux operating systems,Operating Systems,
+CIT130,220,Skill in systems integration testing,Systems Testing and Evaluation,
+CIT130,221,Skill in testing and configuring network workstations and peripherals,Network Management,
+CIT130,222,Skill in the basic operation of computers,Computer Skills,
+CIT130,223,Skill in the measuring and reporting of intellectual capital,Knowledge Management,
+CIT130,224,"Skill in the use of design modeling (e.g., unified modeling language)",Modeling and Simulation,
+CIT130,225,Skill in the use of penetration testing tools and techniques,Vulnerabilities Assessment,
+CIT130,226,Skill in the use of social engineering techniques,Human Factors,
+CIT130,227,Skill in tuning sensors,Computer Network Defense,
+CIT130,229,Skill in using incident handling methodologies,Incident Management,
+CIT130,230,Skill in using knowledge management technologies,Knowledge Management,
+CIT130,231,"Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol)",Network Management,
+CIT130,233,Skill in using protocol analyzers,Vulnerabilities Assessment,
+CIT130,234,Skill in using sub-netting tools,Infrastructure Design,
+CIT130,235,"Skill in using the appropriate tools for repairing software, hardware, and peripheral equipment of a system",Computers and Electronics,
+CIT130,237,Skill in using Virtual Private Network (VPN) devices and encryption,Encryption,
+CIT130,238,"Skill in writing code that is compatible with legacy code (e.g., Common Business-Oriented Language [COBOL], FORTRAN IV)in a modern programming language (e.g., Java, C++)",Computer Languages,
+CIT130,239,Skill in writing test plans,Systems Testing and Evaluation,
+CIT130,244,Ability to determine the validity of technology trend data,Technology Awareness,
+CIT130,246,Knowledge and experience in the Instructional System Design (ISD) methodology,Multimedia Technologies,
+CIT130,252,"Knowledge of and experience in Insider Threat investigations, reporting, investigative tools and laws/regulations",Computer Network Defense,
+CIT130,261,"Knowledge of basic concepts, terminology, and operations of a wide range of communications media (computer and telephony networks, satellite, fiber, wireless)",Telecommunications,
+CIT130,264,"Knowledge of basic physical computer components and architectures, including the functions of various components and peripherals (e.g., central processing units [CPUs], network interface cards [NICs], data storage)",Computers and Electronics,
+CIT130,269,Knowledge of CNE/CNA/CNO methodologies,Computer Network Defense,
+CIT130,270,"Knowledge of common adversary tactics, techniques, and procedures (TTPs) in assigned area of responsibility (e.g., historical country-specific TTPs, emerging capabilities)",Computer Network Defense,
+CIT130,271,"Knowledge of common network tools (e.g., ping, traceroute, nslookup)",Infrastructure Design,4. Discuss the structure and components of business phone and data networks 
+CIT130,274,"Knowledge of concepts, principles, methods, and tools related to processing and exploitation",Computer Network Defense,
+CIT130,277,Knowledge of defense in-depth principles and network security architecture,Computer Network Defense,
+CIT130,278,"Knowledge of different types of network communication (e.g., Local Area Network [LAN], Wide Area Network [WAN], Metropolitan Area Network [MAN], Wireless Local Area Networm [WLAN], Wireless Wide Area Network [WWAN])",Telecommunications,6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,281,"Knowledge of electronic devices (e.g., computer systems/components, access control devices, digital cameras, electronic organizers, hard drives, memory cards, modems, network components, printers, removable storage devices, scanners, telephones, copiers, credit card skimmers, facsimile machines, global positioning systems [GPSs])",Hardware,
+CIT130,282,Knowledge of emerging computer-based technology that has potential for exploitation by adversaries,Technology Awareness,
+CIT130,284,"Knowledge of encryption algorithms and tools for WLANs (e.g., SSL, PGP)",Cryptography,
+CIT130,285,"Knowledge of evasion strategies and techniques (e.g., noise, stealth, situational awareness, bandwidth throttling)",Computer Network Defense,
+CIT130,286,"Knowledge of file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip)",Operating Systems,
+CIT130,287,"Knowledge of file system Implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extentsion [EXT])",Operating Systems,
+CIT130,290,"Knowledge of processes for seizing and preserving digital evidence (e.g., chain of custody)",Forensics,
+CIT130,294,Knowledge of hacking methodologies in Windows or Unix/Linux environment,Surveillance,
+CIT130,296,"Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise",External Awareness,
+CIT130,297,Knowledge of industry indicators useful for identifying technology trends,Technology Awareness,
+CIT130,299,Knowledge of information security program management and project management principles and techniques,Project Management,
+CIT130,300,"Knowledge of intelligence reporting principles, policies, procedures, and vehicles, including report formats, reportability criteria (requirements and priorities), dissemination practices, and legal authorities and restrictions",Organizational Awareness,
+CIT130,302,"Knowledge of investigative implications of hardware, operating systems, and network technologies",Computer Forensics,
+CIT130,305,"Knowledge of laws that affect cyber security (e.g., Wiretap Act, Pen/Trap and Trace Statue, Stored Electronic Communication Act)",Forensics,
+CIT130,310,"Knowledge of legal governance related to admissibility (e.g., Federal Rules of Evidence)",Criminal Law,
+CIT130,313,Knowledge of logging services for network devices,Information Systems/Network Security,
+CIT130,314,Knowledge of multiple cognitive domains and appropriate tools and methods for learning in each domain,Teaching Others,
+CIT130,316,"Knowledge of processes for collecting, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage or destruction of data.",Criminal Law,
+CIT130,320,Knowledge of external organizations and academic institutions dealing with cybersecurity issues,External Awareness,
+CIT130,321,"Knowledge of products and nomenclature of major vendors (e.g., security suites)(Trend Micro, Symantec, McAfee, Outpost, Panda, Kaspersky, etc.) and how differences affect exploitation/vulnerabilities",Technology Awareness,
+CIT130,322,"Knowledge of router and routing processes, connections, protocols, and configuration (including their effects on operations)",Infrastructure Design,
+CIT130,325,"Knowledge of secure acquisitions (e.g., relevant Contracting Officer's Technical Representative [COTR] duties, secure procurement, supply chain risk management)",Contracting/Procurement,
+CIT130,326,"Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation",Information Systems/Network Security,
+CIT130,327,Knowledge of security implications of software configurations,Information Assurance,
+CIT130,329,Knowledge of surveillance detection and countermeasures,Surveillance,
+CIT130,332,Ability to develop curriculum that speaks to the topic at the appropriate level for the target audience,Teaching Others,
+CIT130,336,"Knowledge of the nature and function of the relevant information structure (e.g., National Information Infrastructure [NII])",Telecommunications,
+CIT130,337,"Knowledge of the nexus between Cyber Counter-Intelligence and other Intelligence operations (i.e., How/ Where/ When Cyber Counter-Intelligence fits in, etc.)",External Awareness,
+CIT130,338,"Knowledge of the principal methods, procedures, and techniques of gathering information and producing, reporting, and sharing intelligence",Reasoning,
+CIT130,339,"Knowledge of the structure and intent of military operation plans, concept operation plans,  orders, and standing rules of engagement",Organizational Awareness,
+CIT130,340,Knowledge of types and collection of persistent data,Computer Forensics,
+CIT130,341,"Knowledge of UNIX and Windows systems that provide radius authentication, Domain Name Server, mail, web service, FTP server, DHCP, firewall, and simple network management protocol",Operating Systems,6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,342,"Knowledge of Unix command line (e.g., mkdir, mv, ls, passwd, grep)",Computer Languages,
+CIT130,344,Knowledge of virtualization technologies and virtual machine development and maintenance,Operating Systems,
+CIT130,345,"Knowledge of web mail collection, searching/analyzing techniques, tools, and cookies",Web Technology,
+CIT130,346,"Knowledge of which system files (e.g. log files, registry files, configuration files) contain relevant information and where to find those system files",Computer Forensics,
+CIT130,347,"Knowledge of Windows command line (e.g., ipconfig, netstat, dir, nbtstat)",Operating Systems,
+CIT130,348,"Knowledge of wireless network collection tactics, techniques, and procedures to include decryption tools, techniques, and procedures",Cryptography,
+CIT130,349,"Skill in analyzing data from a variety of Computer Network Defense resources (e.g., signals intelligence, open source intelligence, Computer Network Defense tools)",Reasoning,
+CIT130,350,Skill in analyzing memory dumps to extract information,Reasoning,
+CIT130,352,"Skill in applying white hack hacking/security auditing techniques, procedures and tools",Vulnerabilities Assessment,
+CIT130,353,"Skill in collecting data from a variety of Computer Network Defense resources (e.g., signals intelligence, open source intelligence, Computer Network Defense tools)",Computer Network Defense,
+CIT130,355,Skill in creating plans in support of remote endpoint operations,Requirements Analysis,
+CIT130,356,Skill in determining installed patches on various operating systems and identifying patch signatures,Operating Systems,
+CIT130,357,Skill in determining the effects of various router configurations on traffic patterns and network performance in both LAN and WAN environments,Configuration Management,
+CIT130,358,"Skill in determining tactics, techniques, and procedures",Strategic Thinking,
+CIT130,359,Skill in developing and executing technical training programs and curricula,Computer Forensics,
+CIT130,360,"Skill in identifying and extracting data of forensic interest in diverse media (i.e., media forensics)",Computer Forensics,
+CIT130,361,Skill in gathering and analyzing all-source information in support of indications and warnings,Reasoning,
+CIT130,363,Skill in identifying gaps in technical capabilities,Teaching Others,
+CIT130,364,"Skill in identifying, modifying, and manipulating applicable system components (Window and/or Unix/Linux) (e.g., passwords, user accounts, files)",Operating Systems,
+CIT130,366,Skill in law enforcement report writing,Technical Documentation,
+CIT130,367,Skill in multi-disciplined intelligence report writing,Writing,
+CIT130,368,Skill in navigating mapping tools,Computer Skills,
+CIT130,369,"Skill in collecting, processing, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.",Forensics,
+CIT130,371,"Skill in reading, interpreting, writing, modifying, and executing simple scripts (e.g., PERL, VBS) on Windows and UNIX systems (e.g., those that perform tasks like parsing large data files, automating manual tasks, and fetching/processing remote data)",Operating Systems,
+CIT130,374,Skill in setting up a forensic workstation,Forensics,
+CIT130,375,"Skill in survey, collection, and analysis of wireless LAN metadata",Network Management,
+CIT130,376,Skill in talking to others to convey information effectively,Oral Communication,
+CIT130,377,Skill in tracking and analyzing technical and legal trends that will impact cyber activities,"Legal, Government and Jurisprudence",
+CIT130,379,Skill in using common digital forensics tools and techniques,Computer Forensics,
+CIT130,381,"Skill in using forensic tool suites (e.g. EnCase, Sleuthkit, Forensic Tool Kit [FTK])",Computer Forensics,
+CIT130,383,Skill in using scientific rules and methods to solve problems,Reasoning,
+CIT130,385,Skill in using traceroute analysis tools,Network Management,
+CIT130,386,Skill in using virtual machines,Operating Systems,
+CIT130,387,Skill in verifying the integrity of encrypted files,Encryption,
+CIT130,389,Skill in physically disassembling personal computers (PCs),Computers and Electronics,
+CIT130,886,"Skill in wireless network target analysis, templating, and geolocation",Vulnerabilities Assessment,
+CIT130,888,Knowledge of types of digital forensics data and how to recognize them,Computer Forensics,
+CIT130,889,Knowledge of deployable forensics,Computer Forensics,
+CIT130,890,"Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems)",Computer Forensics,
+CIT130,891,"Skill in configuring and utilizing hardware-based computer protection components (e.g., hardware firewalls, servers, routers)",Configuration Management,
+CIT130,892,"Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, anti-virus software, anti-spyware)",Configuration Management,
+CIT130,893,Skill in securing network communications,Information Assurance,
+CIT130,895,Skill in recognizing and categorizing types of vulnerabilities and associated attacks,Information Assurance,
+CIT130,896,Skill in protecting a network against malware,Computer Network Defense,
+CIT130,897,Skill in performing damage assessments,Information Assurance,
+CIT130,899,"Skill in gathering information from cyber social networks (e.g., MySpace, Facebook etc.)",Information Management,
+CIT130,900,Knowledge of web filtering technologies,Web Technology,
+CIT130,901,"Knowledge of the capabilities of different electronic communication systems and methods (e.g., e-mail, Voice over Internet Protocol [VoIP], Instant Messenger [IM], web forums, direct video broadcasts)",Network Management,8. Discuss the structure and components of business phone and data networks
+CIT130,902,"Knowledge of the range of existing networks (e.g., Private Branching Exchange [PBX], Local Area Networks [LANs], Wide Area Networks [WANs], Wireless Fiedlity [WI-FI])",Network Management,6. Describe the operation of common Local Area and Wide Area network protocols  
+CIT130,903,Knowledge of Wireless Fidelity (WI-FI),Network Management,
+CIT130,904,Knowledge of interpreted and compiled computer languages,Computer Languages,
+CIT130,905,Knowledge of secure coding techniques,Computer Languages,
+CIT130,907,Skill in data mining techniques,Data Management,
+CIT130,908,Ability to decrypt digital data collections,Computer Forensics,
+CIT130,909,Skill in processing collected data for follow-on analysis,Computer Skills,
+CIT130,910,Knowledge of database theory,Data Management,
+CIT130,911,Ability to interpret and translate customer requirements into operational cyber actions,Requirements Analysis,
+CIT130,912,"Knowledge of collection management processes, capabilities, and limitations",Configuration Management,
+CIT130,913,Knowledge of how passive and active collections supplement each other,Information Management,
+CIT130,914,Skill in identifying gaps in cyber collection capabilities,Strategic Thinking,
+CIT130,915,"Knowledge of front-end collection systems, including network traffic collection, filtering, and selection.",Information Systems/Network Security,
+CIT130,916,Skill in deconflicting cyber operations and activities,Political Savvy,
+CIT130,917,Knowledge of social dynamics of computer attackers in a global context,External Awareness,
+CIT130,918,"Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures",Teaching Others,
+CIT130,920,"Knowledge of threat list countries? cyber capabilities, intent, opportunities, and presence",External Awareness,
+CIT130,921,Ability to identify possible threat actor uses of a new technology,Technology Awareness,
+CIT130,922,Skill in using network analysis tools to identify vulnerabilities,Vulnerabilities Assessment,
+CIT130,923,Knowledge of security event correlation tools,Information Systems/Network Security,
+CIT130,942,Knowledge of the organization's core business/mission processes,Organizational Awareness,
+CIT130,950,Skill in evaluating test plans for applicability and completeness,Systems Testing and Evaluation,
+CIT130,952,"Knowledge of emerging security issues, risks, and vulnerabilities",Technology Awareness,12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,954,Knowledge of Export Control regulations and responsible agencies for the purpose of reducing supply chain risk,Contracting/Procurement,
+CIT130,965,Knowledge of organization's risk tolerance and/or risk management approach,Risk Management,
+CIT130,966,"Knowledge of enterprise incident response program, roles, and responsibilities",Incident Management,
+CIT130,967,Knowledge of current and emerging threats/threat vectors,Information Systems/Network Security,
+CIT130,968,"Knowledge of software-related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization)",Information Systems/Network Security,
+CIT130,973,Skill in using code analysis tools to eradicate bugs,Software Development,
+CIT130,974,Ability to tailor code analysis for application-specific concerns,Software Testing and Evaluation,
+CIT130,975,Skill in integrating black box security testing tools into quality assurance process of software releases,Quality Assurance,
+CIT130,976,Knowledge of software quality assurance process,Software Engineering,
+CIT130,978,Knowledge of root cause analysis for incidents,Incident Management,
+CIT130,979,Knowledge of supply chain risk management processes and practices,Risk Management,
+CIT130,980,Skill in performing root cause analysis for incidents,Incident Management,
+CIT130,981,Knowledge of International Traffic in Arms Regulation (ITARs) and relevance to cybersecurity,Criminal Law,
+CIT130,982,Knowledge of electronic evidence law,Criminal Law,
+CIT130,984,"Knowledge of computer network defense (CND) policies, procedures, and regulations",Computer Network Defense,
+CIT130,985,"Skill in configuring and utilizing network protection components (e.g., firewalls, Virtual Private Networks [VPNs], network Intrusion Detection Systems [IDSs])",Configuration Management,
+CIT130,986,"Knowledge of organizational information technology (IT) user security policies (e..g, account creation, password rules, access control)",Identity Management,12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,989,Knowledge of Voice over Internet Protocol (VoIP),Telecommunications,"4. Discuss the structure and components of business phone and data networks, "
+CIT130,990,Knowledge of common attack vectors on the network layer,Computer Network Defense,
+CIT130,991,"Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution)",Computer Network Defense,
+CIT130,992,"Knowledge of different operational threat environments (e.g., first generation [script kiddies], second generation [non-nation state sponsored], third generation [nation state sponsored]",Computer Network Defense,
+CIT130,993,"Knowledge of the methods, standards, and approaches for describing, analyzing, and documenting an organization's enterprise information technology (IT) architecture (e.g., Open Group Architecture Framework [TOGAF], Department of Defense Architecture Framework [DODAF], Federal Enterprise Architecture Framework [FEAF])",Enterprise Architecture,
+CIT130,1002,Skill in conducting audits or reviews of technical systems,Information Technology Performance Assessment,
+CIT130,1004,Knowledge of critical information technology (IT) procrement requirements,Contracting/Procurement,
+CIT130,1005,"Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes)",Contracting/Procurement,
+CIT130,1007,Skills in data reduction,Data Management,
+CIT130,1008,Knowledge of how to troubleshoot basic systems and identify operating systems-related issues,Operating Systems, 
+CIT130,1011,Knowledge of processes for reporting network security related incidents,Security,
+CIT130,1012,Knowledge of Capabilities and Maturity Model Integration (CMMI) at all five levels,Internal Controls,
+CIT130,1020,"Skill in secure test plan deisn (i.e., unit, integration, system, acceptance)",Systems Testing and Evaluation,
+CIT130,1021,Knowledge of threat assessment,Risk Management,
+CIT130,1022,Knowledge of the nature and function of the relevant information structure ,Enterprise Architecture,
+CIT130,1029,Knowledge of malware analysis concepts and methodology,Computer Network Defense,
+CIT130,1033,"Knowledge of basic system administration, network, and operating system hardening techniques",Information Systems/Network Security,
+CIT130,1034,Knowledge of Personally Identifiable Information (PII) and Payment Card Industry (PCI) data security standards,Security,3. Explain and identify the role of standards and standards organizations in the data communications market place   12. Understand the security aspects of data communications and implications in implementing and managing communications resources 
+CIT130,1036,"Knowledge of applicable laws (e.g., Electronic Communications Privacy Act, Foreign Intelligence Surveillance Act, Protect America Act, search and seizure laws, civil liberties and privacy laws), U.S. Statutes (e.g., in Titles 10, 18, 32, 50 in U.S Code), Presidential Directives, executive branch guidelines, and/or administrative/crimial legal guidelines and procedures relevant to work performed",Criminal Law,
+CIT130,1037,"Knowledge of information technology (IT) supply chain security/risk management policies, requirements, and procedures",Risk Management,
+CIT130,1038,"Knowledge of local specialized system requirements (e.g., critical infrastructure systems that may not use standard information technology [IT]) for safety, performance, and reliability)",Infrastructure Design, 
+CIT130,1039,Skill in evaluating the trustworthiness of the supplier and/or product,Contracting/Procurement,
+CIT130,1040,"Knowledge of relevant laws, policies, procedures ,or governance as they relate to work that may impact critical infrastructure",Criminal Law,
+CIT130,1042,Abililty to apply network programming towards client/server model,Requirements Analysis,
+CIT130,1044,Skill in identifying forensic footprints,Computer Forensics,
+CIT130,1047,Skill in writing kernel level applications,Software Development,
+CIT130,1052,Knowledge of Global Systems for Mobile Communications (GSM) architecture,Telecommunications,
+CIT130,1054,Knowledge of hardware reverse engineering techniques,Vulnerabilities Assessment,
+CIT130,1055,Knowledge of middleware,Software Development,
+CIT130,1056,Knowledge of operations security,Public Safety and Security,
+CIT130,1059,Knowledge of networking protocols,Infrastructure Design,"4. Discuss the structure and components of business phone and data networks  6. Describe the operation of common Local Area and Wide Area network protocols  , 9. Review the history and operations of the TCP/IP protocol suite "
+CIT130,1061,Knowledge of the lifecycle process,Systems Life Cycle,
+CIT130,1062,Knowledge of software reverse engineering techniques,Vulnerabilities Assessment,
+CIT130,1063,"Knowledge of Unix/Linux operating system structure and internals (e.g., process management, directory structure, installed applications)",Operating Systems,
+CIT130,1064,Knowledge of Extensible Markup Language (XML) schemas,Infrastructure Design,
+CIT130,1066,"Skill in utlilizing exploitation tools (e.g., Foundstone, fuzzers, packet sniffers, debug) to identify system/software vulnerabilities (penetration and testing)",Vulnerabilities Assessment,
+CIT130,1067,Skill in utlilizing network analysis tools to identify software communications vulnerabilities,Vulnerabilities Assessment,
+CIT130,1069,"Knowledge of general attack stages (e.g., footprinting and scanning, enumeration, gaining access, escalation or privileges, maintaining access, network exploitation, covering tracks)",Computer Network Defense,
+CIT130,1069,"Knowledge of general attack stages (e.g., footprinting and scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks)",Computer Network Defense,
+CIT130,1070,"Ability to determine impact of technology trend data on laws, regulations, and/or policies","Legal, Government and Jurisprudence",
+CIT130,1071,"Knowledge of secure software deployment methodologies, tools, and practices",Software Engineering,
+CIT130,1072,"Knowledge of network security architecture concepts, including topology, protocols, components, and principles (e.g., application of defense-in-depth)",Information Systems/Network Security,"6. Describe the operation of common Local Area and Wide Area network protocols  7. Demonstrate knowledge of media, topologies, hub/switches, routers, and network interface cards "
+CIT130,1073,"Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools",Network Management,
+CIT130,1074,"Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification [RFID], Infrared Networking [IR], Wireless Fiedelity [Wi-Fi]. paging, cellular, satellite dishes), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly ",Telecommunications,
+CIT130,1086,"Knowledge of data carving tools and techniques (e.g., Foremost)",Computer Forensics,
+CIT130,1087,"Skill in deep analysis of captured malicious code (e.g., malware forensics)",Computer Network Defense,
+CIT130,1088,"Skill in using binary analysis tools (e.g., Hexedit, command code xxd, hexdump)",Computer Languages,
+CIT130,1089,Knowledge of reverse engineering concepts,Vulnerabilities Assessment,
+CIT130,1091,"Skill in one way hash functions (e.g., Secure Hash Algorithm [SHA], Message Direct Algorithm [MD5])",Data Management,
+CIT130,1092,"Knowledge of anti-forensics tactics, techniques, and procedures (TTPs)",Computer Forensics,
+CIT130,1093,"Knowledge of common forensic tool configuration and support applications (e.g., VMWare, Wireshark)",Computer Forensics,
+CIT130,1094,Knowledge of debugging procedures and tools,Software Development,
+CIT130,1095,Knowledge of how different file types can be used for anomalous behavior,Vulnerabilities Assessment,
+CIT130,1096,"Knowledge of malware analysis tools (e.g., Oily Debug, Ida Pro)",Computer Network Defense,
+CIT130,1097,"Knowledge of virtual machine aware malware, debugger aware malware, and packing",Computer Network Defense,
+CIT130,1098,Skill in analyzing anomalous code as malcious or benign,Computer Network Defense,
+CIT130,1099,Skill in analyzing volatile data,Computer Forensics,
+CIT130,1100,Skill in identifying obfusification techniques,Computer Network Defense,
+CIT130,1101,"Skill in interpreting results of debugger to ascertain tactics, techniques, and procedures",Computer Network Defense,
+CIT130,1114,Knowledge of encryption methodologies,Cryptography,
+CIT130,1115,Skill in reading Hexadecimal data,Computer Languages,
+CIT130,1116,"Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode)",Computer Languages,
+CIT130,1117,Skill in utilizing virtual networks for testing,Operating Systems,
+CIT130,1118,"Skill in reading and interpreting signatures (e.g., Snort)",Information Systems/Network Security,
+CIT130,1119,Knowledge of signature implementation impact,Information Systems/Network Security,
+CIT130,1120,Ability to interpret and incorporate data from multiple tool sources ,Data Management,
+CIT130,1121,Knowledge of Windows/Unix ports and services,Operating Systems,14. Describe Network Operating Systems 
+CIT135,135,"Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)",Data Management,10. Student should gain an exposure to e-commerce and databases
+CIT135,70,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)",Information Systems/Network Security,11. Student should gain an exposure to issues surrounding computer and data security
+CIT135,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,11. Student should gain an exposure to issues surrounding computer and data security
+CIT135,320,Knowledge of external organizations and academic institutions dealing with cybersecurity issues,External Awareness,11. Student should gain an exposure to issues surrounding computer and data security
+CIT135,23,Knowledge of computer programming principles such as object-oriented design,Object Technology,12. Student should gain an understanding of the concept of object oriented design
+CIT135,102,Knowledge of programming language structures and logic,Computer Languages,"13. Student should gain an understanding of programming logic, 15. Student should gain an exposure to programming "
+CIT135,21,Knowledge of computer algorithms,Mathematical Reasoning,3. Student should gain an understanding of Algorithms
+CIT135,1115,Skill in reading Hexadecimal data,Computer Languages,4. Student should gain an understanding of binary and hexadecimal notation and their use in computer systems
+CIT135,264,"Knowledge of basic physical computer components and architectures, including the functions of various components and peripherals (e.g., central processing units [CPUs], network interface cards [NICs], data storage)",Computers and Electronics,5. Student should gain an understanding of computer hardware architecture
+CIT135,281,"Knowledge of electronic devices (e.g., computer systems/components, access control devices, digital cameras, electronic organizers, hard drives, memory cards, modems, network components, printers, removable storage devices, scanners, telephones, copiers, credit card skimmers, facsimile machines, global positioning systems [GPSs])",Hardware,5. Student should gain an understanding of computer hardware architecture
+CIT135,1116,"Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode)",Computer Languages,6. Student should gain an understanding of Boolean logic 
+CIT135,126,"Knowledge of system software and organizaional design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design",Requirements Analysis,8. Student should gain an understanding of system software and application software
+CIT135,92,"Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP], Open System Interconnection model [OSI], Information Technology Infrastructure Library, v3 [ITIL])",Infrastructure Design,9. Student should gain an understanding of networks and the internet 
+CIT135,261,"Knowledge of basic concepts, terminology, and operations of a wide range of communications media (computer and telephony networks, satellite, fiber, wireless)",Telecommunications,9. Student should gain an understanding of networks and the internet 
+CIT140,1071,"Knowledge of secure software deployment methodologies, tools, and practices",Software Engineering,Describe the concepts of imaging and deployment
+CIT140,126,"Knowledge of system software and organizaional design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design",Requirements Analysis,Describe the function and purpose of various systems software 
+CIT140,287,"Knowledge of file system Implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extentsion [EXT])",Operating Systems,Explain file system formats
+CIT140,90,Knowledge of operating systems,Operating Systems,Explain the functions an operating system performs | Compare and contrast Operating Systems
+CIT140,344,Knowledge of virtualization technologies and virtual machine development and maintenance,Operating Systems,Explain virtualization and the relationship with the operating system and hardware
+CIT140,122,Knowledge of system administration concepts for Unix/Linux and/or Windows operating systems.,Operating Systems,Perform standard operating system systems administration functions
+CIT140,219,Skill in system administration for Unix/Linux operating systems,Operating Systems,Perform standard operating system systems administration functions
+CIT140,28,Knowledge of data administration and data standardization policies and standards,Data Management,Use appropriate data representation and conversions  
+CIT140,1120,Ability to interpret and incorporate data from multiple tool sources ,Data Management,Use appropriate data representation and conversions  
+NET215,87,Knowledge of network traffic analysis methods,Information Systems/Network Security,Analyze performance  of IP-based networks using a packet-sniffer and associated tools. Isolate particular conversations/packets of interest.
+NET215,214,"Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)",Vulnerabilities Assessment,Analyze performance  of IP-based networks using a packet-sniffer and associated tools. Isolate particular conversations/packets of interest.
+NET215,233,Skill in using protocol analyzers,Vulnerabilities Assessment,Analyze performance  of IP-based networks using a packet-sniffer and associated tools. Isolate particular conversations/packets of interest.
+NET215,234,Skill in using sub-netting tools,Infrastructure Design,"Articulate and construct an IP-based subnet addressing plan, with particular understanding of private vs. public addressing and subnet masks."
+NET215,81,"Knowledge of network communication protocols such as TCP/IP, Dynamic Host Configuration, Domain Name Server (DNS), and directory services",Infrastructure Design,"Compare and contrast the TCP/IP protocol suite with other protocol suites, and cite advantages and disadvantages of using TCP/IP."
+NET215,92,"Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP], Open System Interconnection model [OSI], Information Technology Infrastructure Library, v3 [ITIL])",Infrastructure Design,"Compare and contrast the TCP/IP protocol suite with other protocol suites, and cite advantages and disadvantages of using TCP/IP."
+NET215,139,"Knowledge of common networking protocols (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP]) and services (e.g., web, mail, Domain Name System [DNS]) and how they interact to provide network communications",Infrastructure Design,"Compare and contrast the TCP/IP protocol suite with other protocol suites, and cite advantages and disadvantages of using TCP/IP."
+NET215,50,Knowledge of how network services and protocols interact to provide network communications,Infrastructure Design,"Discuss the protocol operation of the major components of the TCP/IP suite, recognize the data unit formats, and understand basic troubleshooting (including IP, ICMP, ARP, TCP, UDP, FTP, Telnet, Ping, HTTP, SMTP, POP, and DNS)."
+NET215,989,Knowledge of Voice over Internet Protocol (VoIP),Telecommunications,"Discuss the protocol operation of the major components of the TCP/IP suite, recognize the data unit formats, and understand basic troubleshooting (including IP, ICMP, ARP, TCP, UDP, FTP, Telnet, Ping, HTTP, SMTP, POP, and DNS)."
+NET215,1059,Knowledge of networking protocols,Infrastructure Design,"Discuss the protocol operation of the major components of the TCP/IP suite, recognize the data unit formats, and understand basic troubleshooting (including IP, ICMP, ARP, TCP, UDP, FTP, Telnet, Ping, HTTP, SMTP, POP, and DNS)."
+NET215,148,Knowledge of VPN security.,Encryption,"Integrate IPsec, VPNs, VOIP into network design, choosing effective options for particular scenarios."
+NET215,237,Skill in using Virtual Private Network (VPN) devices and encryption,Encryption,"Integrate IPsec, VPNs, VOIP into network design, choosing effective options for particular scenarios."
+FOR240,217,Skill in preserving evidence integrity according to standard operating procedures or national standards,Computer Forensics,Apply current industry best?practices
+FOR240,290,"Knowledge of processes for seizing and preserving digital evidence (e.g., chain of custody)",Forensics,"Articulate the laws applying to the appropriation of computers for forensic analysis, citing what laws are relevant and apply under what circumstances."
+FOR240,305,"Knowledge of laws that affect cyber security (e.g., Wiretap Act, Pen/Trap and Trace Statue, Stored Electronic Communication Act)",Forensics,"Articulate the laws applying to the appropriation of computers for forensic analysis, citing what laws are relevant and apply under what circumstances."
+FOR240,310,"Knowledge of legal governance related to admissibility (e.g., Federal Rules of Evidence)",Criminal Law,"Articulate the laws applying to the appropriation of computers for forensic analysis, citing what laws are relevant and apply under what circumstances."
+FOR240,982,Knowledge of electronic evidence law,Criminal Law,"Articulate the laws applying to the appropriation of computers for forensic analysis, citing what laws are relevant and apply under what circumstances."
+FOR240,1036,"Knowledge of applicable laws (e.g., Electronic Communications Privacy Act, Foreign Intelligence Surveillance Act, Protect America Act, search and seizure laws, civil liberties and privacy laws), U.S. Statutes (e.g., in Titles 10, 18, 32, 50 in U.S Code), Presidential Directives, executive branch guidelines, and/or administrative/crimial legal guidelines and procedures relevant to work performed",Criminal Law,"Articulate the laws applying to the appropriation of computers for forensic analysis, citing what laws are relevant and apply under what circumstances."
+FOR240,316,"Knowledge of processes for collecting, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage or destruction of data.",Criminal Law,"best practices in securing, processing, acquiring, examining and reporting on digital evidence. "
+FOR240,381,"Skill in using forensic tool suites (e.g. EnCase, Sleuthkit, Forensic Tool Kit [FTK])",Computer Forensics,current technologies and methods as well as leading edge techniques with practical based projects and research opportunities.
+FOR240,24,Knowledge of concepts and practices of processing digital forensic data,Data Management,Demonstrate the ability to perform a basic computer forensic analysis using computer and network?based tools.
+FOR240,346,"Knowledge of which system files (e.g. log files, registry files, configuration files) contain relevant information and where to find those system files",Computer Forensics,Demonstrate the ability to perform a basic computer forensic analysis using computer and network?based tools.
+FOR240,379,Skill in using common digital forensics tools and techniques,Computer Forensics,Demonstrate the ability to perform a basic computer forensic analysis using computer and network?based tools.
+FOR240,302,"Knowledge of investigative implications of hardware, operating systems, and network technologies",Computer Forensics,Describe the role of computer forensics in a criminal investigation.
+FOR240,888,Knowledge of types of digital forensics data and how to recognize them,Computer Forensics,Describe the role of computer forensics in a criminal investigation.
+FOR240,1093,"Knowledge of common forensic tool configuration and support applications (e.g., VMWare, Wireshark)",Computer Forensics,Describe the role of computer forensics in a criminal investigation.
+FOR240,29,"Knowledge of data backup, types of backups (e.g., full, incremental), and recovery concepts and tools",Computer Forensics,Describe the underlying concepts of how data are stored on computers 
+FOR240,369,"Skill in collecting, processing, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.",Forensics,"The course content includes best practices in securing, processing, acquiring, examining and reporting on digital evidence. "
+NET225,51,"Knowledge of how system components are installed, integrated, and optimized",Systems Integration,1. Describe the components of a web system and the interaction of those components
+NET225,149,"Knowledge of web services, including service oriented architecture, Simple Object Access Protocol (SOAP), and web service description language",Web Technology,1.Describe the components of a web system and the interaction of those components
+NET225,1042,Abililty to apply network programming towards client/server model,Requirements Analysis,2. Construct simple applications as prototypes or samples of larger systems
+NET225,171,Skill in correcting physical and technical problems which impact server performance,Network Management,"3. Analyze connectivity and performance issues in web systems, isolate issues to component level,  and select appropriate measures for resolution"
+NET225,202,"Skill in identifying and anticipating server performance, availability, capacity, or configuration problems",Information Technology Performance Assessment,"3. Analyze connectivity and performance issues in web systems, isolate issues to component level,  and select appropriate measures for resolution"
+NET225,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,4ÿÿÿÿ Describe and analyze security issues in web systems
+NET225,4,Ability to identify systemic security issues based on the analysis of vulnerability and configuration data,Vulnerabilities Assessment,4. Describe and analyze security issues in web systems
+NET225,139,"Knowledge of common networking protocols (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP]) and services (e.g., web, mail, Domain Name System [DNS]) and how they interact to provide network communications",Infrastructure Design,5. Describe and analyze the networking and web protocols involved in web systems 
+NET225,341,"Knowledge of UNIX and Windows systems that provide radius authentication, Domain Name Server, mail, web service, FTP server, DHCP, firewall, and simple network management protocol",Operating Systems,6. Analyze and design web system configurations in relation to the network infrastructure
+NET255,76,Knowledge of measures or indicators of system performance and availability,Information Technology Performance Assessment,Analyze operating system performance and develop strategies for dealing with issues
+NET255,96,Knowledge of performance tuning tools and techniques,Information Technology Performance Assessment,Analyze operating system performance and develop strategies for dealing with issues
+NET255,171,Skill in correcting physical and technical problems which impact server performance,Network Management,Analyze operating system performance and develop strategies for dealing with issues
+NET255,202,"Skill in identifying and anticipating server performance, availability, capacity, or configuration problems",Information Technology Performance Assessment,Analyze operating system performance and develop strategies for dealing with issues
+NET255,203,"Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system",Information Technology Performance Assessment,Analyze operating system performance and develop strategies for dealing with issues
+NET255,204,Skill in identifying possible causes of degradation of system performance or availability and initiating actions needed to mitigate this degradation,Systems Life Cycle,Analyze operating system performance and develop strategies for dealing with issues
+NET255,211,Skill in monitoring and optimizing server performance,Information Technology Performance Assessment,Analyze operating system performance and develop strategies for dealing with issues
+NET255,88,Knowledge of new and emerging information technology (IT) and information security technologies,Technology Awareness,"Apply the concepts of the course to legacy, alternative, and emerging systems software"
+NET255,89,Knowledge of new technological developments in server administration,Technology Awareness,"Apply the concepts of the course to legacy, alternative, and emerging systems software"
+NET255,282,Knowledge of emerging computer-based technology that has potential for exploitation by adversaries,Technology Awareness,"Apply the concepts of the course to legacy, alternative, and emerging systems software"
+NET255,364,"Skill in identifying, modifying, and manipulating applicable system components (Window and/or Unix/Linux) (e.g., passwords, user accounts, files)",Operating Systems,Configure essential services on Microsoft Windows and Linux Servers
+NET255,90,Knowledge of operating systems,Operating Systems,Discuss and compare  the features of Microsoft Windows and Linux Servers
+NET255,1121,Knowledge of Windows/Unix ports and services,Operating Systems,Discuss and compare  the features of Microsoft Windows and Linux Servers
+NET255,1063,"Knowledge of Unix/Linux operating system structure and internals (e.g., process management, directory structure, installed applications)",Operating Systems,Discuss and compare the features of Microsoft Windows and Linux Servers
+NET255,51,"Knowledge of how system components are installed, integrated, and optimized",Systems Integration,"Install an operating system, making appropriate decisions during the process"
+NET255,206,Skill in installing computer and server upgrades,Systems Life Cycle,"Install an operating system, making appropriate decisions during the process"
+NET255,127,Knowledge of systems administration concepts,Operating Systems,Perform common systems administration functions
+NET255,356,Skill in determining installed patches on various operating systems and identifying patch signatures,Operating Systems,Perform common systems administration functions
+NET255,219,Skill in system administration for Unix/Linux operating systems,Operating Systems,"Perform common systems administration functions, Discuss and compare  the features of Microsoft Windows and Linux Servers"
+NET255,122,Knowledge of system administration concepts for Unix/Linux and/or Windows operating systems.,Operating Systems,Perform common systems administration functions; Discuss and compare  the features of Microsoft Windows and Linux Servers
+NET265,94,Knowledge of parallel and distributed computing concepts,Information Technology Architecture,Administer clients and servers in a distributed environment 
+NET265,81,"Knowledge of network communication protocols such as TCP/IP, Dynamic Host Configuration, Domain Name Server (DNS), and directory services",Infrastructure Design,Design and implement a TCP/IP network and some associated services
+NET265,113,Knowledge of server and client operating systems,Operating Systems,Install and maintain Microsoft Windows and Linux clients and servers
+NET265,139,"Knowledge of common networking protocols (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP]) and services (e.g., web, mail, Domain Name System [DNS]) and how they interact to provide network communications",Infrastructure Design,"Install and maintain network services like messaging and email, DNS and Web Servers"
+NET265,1121,Knowledge of Windows/Unix ports and services,Operating Systems,"Install and maintain network services like messaging and email, DNS and Web Servers"
+NET265,96,Knowledge of performance tuning tools and techniques,Information Technology Performance Assessment,Perform System monitoring and performance management
+NET265,211,Skill in monitoring and optimizing server performance,Information Technology Performance Assessment,Perform System monitoring and performance management
+NET265,1073,"Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools",Network Management,Perform System monitoring and performance management
+NET320,1008,Knowledge of how to troubleshoot basic systems and identify operating systems-related issues,Operating Systems,Develop programs to troubleshoot services and apply networking tools
+NET320,1042,Abililty to apply network programming towards client/server model,Requirements Analysis,Learn multiple approaches to a network programming problem and be able to choose and effective solution
+NET320,124,"Knowledge of system design tools, methods, and techniques, including automated system analysis and design tools",Logical Systems Design,Write programs to analyze network systems and services
+FOR270,1092,"Knowledge of anti-forensics tactics, techniques, and procedures (TTPs)",Computer Forensics,1.  Compare and Contrast different anti-?-forensics methods and techniques
+FOR270,1093,"Knowledge of common forensic tool configuration and support applications (e.g., VMWare, Wireshark)",Computer Forensics,10. Describe the operation and use of a packet sniffer in network investigations
+FOR270,369,"Skill in collecting, processing, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.",Forensics,3. Explain how the use of anti-forensics can undermine the credibility and veracity of digital evidence
+FOR270,360,"Skill in identifying and extracting data of forensic interest in diverse media (i.e., media forensics)",Computer Forensics,"4. Examine and demonstrate techniques used to analyze and enhance digital images, sound and video."
+FOR270,888,Knowledge of types of digital forensics data and how to recognize them,Computer Forensics,"4. Examine and demonstrate techniques used to analyze and enhance digital images, sound and video."
+FOR270,27,Knowledge of cryptology,Cryptography,5. Classify different types of cryptography
+FOR270,1114,Knowledge of encryption methodologies,Cryptography,5. Classify different types of cryptography
+FOR270,908,Ability to decrypt digital data collections,Computer Forensics,6. Describe methods of cryptanalysis
+FOR270,24,Knowledge of concepts and practices of processing digital forensic data,Data Management,9. Identify issues related to forensic investigation of computer networks
+ ,58,"Knowledge of known vulnerabilities from alerts, advisories, errata, and bulletins ",Information Systems/Network Security,Analyze the security vulnerabilities of various web applications and operating systems
+SEC335,108,"Knowledge of risk management processes, including steps and methods for assessing risk",Risk Management,Analyze the security vulnerabilities of various web applications and operating systems
+SEC335,160,Skill in assessing the robustness of security systems and designs,Vulnerabilities Assessment,Analyze the security vulnerabilities of various web applications and operating systems
+SEC335,199,Skill in evaluating the adequacy of security designs,Vulnerabilities Assessment,Analyze the security vulnerabilities of various web applications and operating systems
+SEC335,294,Knowledge of hacking methodologies in Windows or Unix/Linux environment,Surveillance,Analyze the security vulnerabilities of various web applications and operating systems
+SEC335,19,"Knowledge of Computer Network Defense tools, including open source tools, and their capabilities",Computer Network Defense,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,49,"Knowledge of host/network access controls (e.g., access control list)",Information Systems/Network Security,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,177,Skill in designing countermeasures to identified security risks,Vulnerabilities Assessment,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,179,Skill in designing security controls based on information assurance (IA) principles and tenets,Information Assurance,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,191,Skill in developing and applying security system access controls,Identity Management,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,968,"Knowledge of software-related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization)",Information Systems/Network Security,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,1033,"Knowledge of basic system administration, network, and operating system hardening techniques",Information Systems/Network Security,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization"
+SEC335,70,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)",Information Systems/Network Security,"Apply best practices for securing network operating systems, databases, and web applications to the specific needs of an organization; Describe the process for maintaining secure software and Internet server systems"
+SEC335,173,Skill in creating policies that relfect system security objectives,Information Systems Security Certification,Articulate best practices and user policies related to developing software systems and installing Internet server applications
+SEC335,77,"Knowledege of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures, utilizing standards-based concepts and capabilities",Information Systems/Network Security,Choose the appropriate methodology and tools to assess the security of a network and host systems; Describe the process for maintaining secure software and Internet server systems; Develop plans for incident response to cyberthreats and attacks
+SEC335,25,"Knowledge of critical protocols (e.g., IPSEC, AES, GRE, IKE, MD5, SHA, 3DES).",Cryptography,"Describe and discuss cryptography used in systems software, and web applications and select the appropriate method for a system"
+SEC335,27,Knowledge of cryptology,Cryptography,"Describe and discuss cryptography used in systems software, and web applications and select the appropriate method for a system"
+SEC335,284,"Knowledge of encryption algorithms and tools for WLANs (e.g., SSL, PGP)",Cryptography,"Describe and discuss cryptography used in systems software, and web applications and select the appropriate method for a system"
+SEC335,1114,Knowledge of encryption methodologies,Cryptography,"Describe and discuss cryptography used in systems software, and web applications and select the appropriate method for a system"
+SEC335,148,Knowledge of VPN security.,Encryption,"Describe and discuss cryptography used in systems software, and web applications and select the appropriate method for a system."
+SEC335,111,"Knowledge of security system design tools, methods, and techniques",Information Systems/Network Security,Describe the process for maintaining secure software and Internet server systems
+SEC335,205,"Skill in implementing, maintaining, and improving established security practices",Information Systems/Network Security,Describe the process for maintaining secure software and Internet server systems
+SEC335,313,Knowledge of logging services for network devices,Information Systems/Network Security,Describe the process for maintaining secure software and Internet server systems
+SEC335,923,Knowledge of security event correlation tools,Information Systems/Network Security,Describe the process for maintaining secure software and Internet server systems
+SEC335,1011,Knowledge of processes for reporting network security related incidents,Security,Describe the process for maintaining secure software and Internet server systems
+SEC335,183,"Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes",Information Assurance,"Describe the process for maintaining secure software and Internet server systems; Document the impact and management of secure software and server systems, and the impact on the organization, for both professional peers and managers"
+SEC335,326,"Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation",Information Systems/Network Security,Describe ways to incorporate security into the design of software systems and Web server and e-commerce applications
+SEC335,327,Knowledge of security implications of software configurations,Information Assurance,Describe ways to incorporate security into the design of software systems and Web server and e-commerce applications
+SEC335,1071,"Knowledge of secure software deployment methodologies, tools, and practices",Software Engineering,Describe ways to incorporate security into the design of software systems and Web server and e-commerce applications
+SEC335,61,Knowledge of incident response and handling methodologies,Incident Management,Develop plans for incident response to cyberthreats and attacks
+SEC335,229,Skill in using incident handling methodologies,Incident Management,Develop plans for incident response to cyberthreats and attacks
+SEC335,918,"Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures",Teaching Others,increasing security awareness in organizations
+SEC335,17,Knowledge of certified ethical hacking principles and techniques,Vulnerabilities Assessment,"Scenarios will provide opportunities to discuss security, ethics, and incident response"
+SEC335,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,"Students will learn about  information security flaws in software systems, vulnerabilities inherent in common network services"
+SEC335,3,Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems,Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions. 
+SEC335,95,"Knowledge of penetration testing principles, tools, and techniques (e.g., metasploit, neosploit)",Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions.  
+SEC335,225,Skill in the use of penetration testing tools and techniques,Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions.  
+SEC335,352,"Skill in applying white hack hacking/security auditing techniques, procedures and tools",Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions.  
+SEC335,1066,"Skill in utlilizing exploitation tools (e.g., Foundstone, fuzzers, packet sniffers, debug) to identify system/software vulnerabilities (penetration and testing)",Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions.  
+SEC335,1067,Skill in utlilizing network analysis tools to identify software communications vulnerabilities,Vulnerabilities Assessment,Students will learn the methodologies and tools used to probe networks for vulnerabilities and propose solutions.  
+SEC 350,70,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)",Information Systems/Network Security,Construct and maintain firewalls in a business environment
+SEC 350,891,"Skill in configuring and utilizing hardware-based computer protection components (e.g., hardware firewalls, servers, routers)",Configuration Management,Construct and maintain firewalls in a business environment
+SEC 350,892,"Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, anti-virus software, anti-spyware)",Configuration Management,Construct and maintain firewalls in a business environment
+SEC 350,985,"Skill in configuring and utilizing network protection components (e.g., firewalls, Virtual Private Networks [VPNs], network Intrusion Detection Systems [IDSs])",Configuration Management,"Construct and maintain firewalls in a business environment | Describe and implement packet filtering, proxy servers, authentication and VPN?s"
+SEC 350,8,Knowledge of access authentication methods,Identity Management,"Describe and implement packet filtering, proxy servers, authentication and VPN?s"
+SEC 350,148,Knowledge of VPN security.,Encryption,"Describe and implement packet filtering, proxy servers, authentication and VPN?s"
+SEC 350,237,Skill in using Virtual Private Network (VPN) devices and encryption,Encryption,"Describe and implement packet filtering, proxy servers, authentication and VPN?s"
+SEC 350,60,"Knowledge of incident categories, incident responses, and timelines for responses",Incident Management,Develop an Incident Response plan for an enterprise network
+SEC 350,61,Knowledge of incident response and handling methodologies,Incident Management,Develop an Incident Response plan for an enterprise network
+SEC 350,966,"Knowledge of enterprise incident response program, roles, and responsibilities",Incident Management,Develop an Incident Response plan for an enterprise network
+SEC 350,173,Skill in creating policies that relfect system security objectives,Information Systems Security Certification,Develop and analyze enterprise security policies as they apply to users and devices
+SEC 350,986,"Knowledge of organizational information technology (IT) user security policies (e..g, account creation, password rules, access control)",Identity Management,Develop and analyze enterprise security policies as they apply to users and devices
+SEC 350,327,Knowledge of security implications of software configurations,Information Assurance,Plan and design security configurations capable of withstanding various levels of attack.
+SEC345,126,"Knowledge of system software and organizaional design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design",Requirements Analysis,Describe government and military requirements for security at various levels
+SEC345,1005,"Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes)",Contracting/Procurement,Describe government and military requirements for security at various levels
+SEC345,1012,Knowledge of Capabilities and Maturity Model Integration (CMMI) at all five levels,Internal Controls,Describe government and military requirements for security at various levels
+SEC345,1034,Knowledge of Personally Identifiable Information (PII) and Payment Card Industry (PCI) data security standards,Security,Describe government and military requirements for security at various levels
+SEC345,63,"Knowledge of Information Assurance principles and tenets (confidentiality, integrity, availability, authentication, non-repudiation).",Information Assurance,"Describe the issues of global IT security from a technical, social, ethical, geographic perspective"
+SEC345,917,Knowledge of social dynamics of computer attackers in a global context,External Awareness,"Describe the issues of global IT security from a technical, social, ethical, geographic perspective"
+SEC345,952,"Knowledge of emerging security issues, risks, and vulnerabilities",Technology Awareness,"Describe the issues of global IT security from a technical, social, ethical, geographic perspective"
+SEC345,38,Knowledge of organization's enterprise information security architecture system,Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,46,Knowledge of fault tolerance,Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,55,"Knowledge of Information assurance (IA) principles used to manage risks related to the use, processing, storage, and transmission of information or data",Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,62,Knowledge of industry-standard and organizationally accepted analysis principles and methods,Logical Systems Design,Develop a comprehensive enterprise security program based on industry standards
+SEC345,77,"Knowledege of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures, utilizing standards-based concepts and capabilities",Information Systems/Network Security,Develop a comprehensive enterprise security program based on industry standards
+SEC345,141,Knowledge of the enterprise information technology (IT) architecture,Information Technology Architecture,Develop a comprehensive enterprise security program based on industry standards
+SEC345,156,"Skill in applying confidentiality, integrity, and availability principles",Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,179,Skill in designing security controls based on information assurance (IA) principles and tenets,Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,183,"Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes",Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC345,296,"Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise",External Awareness,Develop a comprehensive enterprise security program based on industry standards
+SEC345,299,Knowledge of information security program management and project management principles and techniques,Project Management,Develop a comprehensive enterprise security program based on industry standards
+SEC345,893,Skill in securing network communications,Information Assurance,Develop a comprehensive enterprise security program based on industry standards
+SEC250,1033,"Knowledge of basic system administration, network, and operating system hardening techniques",Information Systems/Network Security,1. Understand the basics of hardening servers and hosts
+SEC250,150,Knowledge of what constitutes a network attack and the relationship to both threats and vulnerabilities,Information Systems/Network Security,"2, Understand common attack patterns, Maybe : 3. Evaluate vulnerability of an information system and establish a plan for risk management"
+SEC250,895,Skill in recognizing and categorizing types of vulnerabilities and associated attacks,Information Assurance,2. Understand common attack patterns
+SEC250,917,Knowledge of social dynamics of computer attackers in a global context,External Awareness,2. Understand common attack patterns
+SEC250,990,Knowledge of common attack vectors on the network layer,Computer Network Defense,2. Understand common attack patterns
+SEC250,991,"Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution)",Computer Network Defense,2. Understand common attack patterns
+SEC250,1069,"Knowledge of general attack stages (e.g., footprinting and scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks)",Computer Network Defense,2. Understand common attack patterns
+SEC250,1066,"Skill in utlilizing exploitation tools (e.g., Foundstone, fuzzers, packet sniffers, debug) to identify system/software vulnerabilities (penetration and testing)",Vulnerabilities Assessment,3 maybe
+SEC250,3,Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems,Vulnerabilities Assessment,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,58,"Knowledge of known vulnerabilities from alerts, advisories, errata, and bulletins ",Information Systems/Network Security,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,108,"Knowledge of risk management processes, including steps and methods for assessing risk",Risk Management,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,117,"Knowledge of software design tools, methods, and techniques",Software Development,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,214,"Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)",Vulnerabilities Assessment,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,278,"Knowledge of different types of network communication (e.g., Local Area Network [LAN], Wide Area Network [WAN], Metropolitan Area Network [MAN], Wireless Local Area Networm [WLAN], Wireless Wide Area Network [WWAN])",Telecommunications,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,922,Skill in using network analysis tools to identify vulnerabilities,Vulnerabilities Assessment,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,1038,"Knowledge of local specialized system requirements (e.g., critical infrastructure systems that may not use standard information technology [IT]) for safety, performance, and reliability)",Infrastructure Design,3. Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,"3. Evaluate vulnerability of an information system and establish a plan for risk management, 4. Demonstrate how to detect and reduce threats in Web security  "
+SEC250,98,Knowledge of policy-based and risk adaptive access controls,Identity Management,"3. Evaluate vulnerability of an information system and establish a plan for risk management, 8  Evaluate a company?s security policies and procedures"
+SEC250,352,"Skill in applying white hack hacking/security auditing techniques, procedures and tools",Vulnerabilities Assessment,3.Evaluate vulnerability of an information system and establish a plan for risk management
+SEC250,4,Ability to identify systemic security issues based on the analysis of vulnerability and configuration data,Vulnerabilities Assessment,4. Demonstrate how to detect and reduce threats in Web security  
+SEC250,900,Knowledge of web filtering technologies,Web Technology,4. Demonstrate how to detect and reduce threats in Web security  
+SEC250,8,Knowledge of access authentication methods,Identity Management,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,27,Knowledge of cryptology,Cryptography,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,63,"Knowledge of Information Assurance principles and tenets (confidentiality, integrity, availability, authentication, non-repudiation).",Information Assurance,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,70,"Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)",Information Systems/Network Security,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,284,"Knowledge of encryption algorithms and tools for WLANs (e.g., SSL, PGP)",Cryptography,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,1114,Knowledge of encryption methodologies,Cryptography,5. Evaluate the authentication and encryption needs of an information system 
+SEC250,79,"Knowledge of network access, identity, and access management (e.g., public key infrastructure [PKI])",Identity Management,6. Explain the Public Key Infrastructure process 
+SEC250,261,"Knowledge of basic concepts, terminology, and operations of a wide range of communications media (computer and telephony networks, satellite, fiber, wireless)",Telecommunications,7.  Demonstrate how to secure a wireless network
+SEC250,903,Knowledge of Wireless Fidelity (WI-FI),Network Management,7.  Demonstrate how to secure a wireless network
+SEC250,1074,"Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification [RFID], Infrared Networking [IR], Wireless Fiedelity [Wi-Fi]. paging, cellular, satellite dishes), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly ",Telecommunications,7.  Demonstrate how to secure a wireless network
+SEC250,984,"Knowledge of computer network defense (CND) policies, procedures, and regulations",Computer Network Defense,8.  Evaluate a company?s security policies and procedures
+SEC250,986,"Knowledge of organizational information technology (IT) user security policies (e..g, account creation, password rules, access control)",Identity Management,8.  Evaluate a company?s security policies and procedures
+SEC250,1040,"Knowledge of relevant laws, policies, procedures ,or governance as they relate to work that may impact critical infrastructure",Criminal Law,8.  Evaluate a company?s security policies and procedures
+SEC440,87,Knowledge of network traffic analysis methods,Information Systems/Network Security,1. Analyze live network traffic for anomalies associated with security issues
+SEC440,123,Knowledge of system and application security threats and vulnerabilities ,Vulnerabilities Assessment,2. Evaluate security threats and propose possible solutions in real-time
+SEC440,150,Knowledge of what constitutes a network attack and the relationship to both threats and vulnerabilities,Information Systems/Network Security,2. Evaluate security threats and propose possible solutions in real-time
+SEC440,966,"Knowledge of enterprise incident response program, roles, and responsibilities",Incident Management,"3. Develop incident response plan and implement in reaction to security compromises, 6. Assess effectiveness of response to security incidents"
+SEC440,63,"Knowledge of Information Assurance principles and tenets (confidentiality, integrity, availability, authentication, non-repudiation).",Information Assurance,"3. Maintain the confidentiality, integrity, and availability of the data and systems "
+SEC440,156,"Skill in applying confidentiality, integrity, and availability principles",Information Assurance,"3. Maintain the confidentiality, integrity, and availability of the data and systems "
+SEC440,61,Knowledge of incident response and handling methodologies,Incident Management,"4. Develop incident response plan and implement in reaction to security , 6. Assess effectiveness of response to security incidents"
+SEC440,153,Skill in handling malware,Computer Network Defense,5. Analyze malware and evaluate impact on network services
+SEC440,896,Skill in protecting a network against malware,Computer Network Defense,5. Analyze malware and evaluate impact on network services
+SEC440,1029,Knowledge of malware analysis concepts and methodology,Computer Network Defense,5. Analyze malware and evaluate impact on network services
+SEC440,60,"Knowledge of incident categories, incident responses, and timelines for responses",Incident Management,6. Assess effectiveness of response to security incidents
+SEC440,98,Knowledge of policy-based and risk adaptive access controls,Identity Management,"7. Develop strategies for balancing risk factors, technical constraints, time, and personnel "
+SEC440,177,Skill in designing countermeasures to identified security risks,Vulnerabilities Assessment,"7. Develop strategies for balancing risk factors, technical constraints, time, and personnel "
+SEC440,965,Knowledge of organization's risk tolerance and/or risk management approach,Risk Management,"7. Develop strategies for balancing risk factors, technical constraints, time, and personnel "
+SEC440,1037,"Knowledge of information technology (IT) supply chain security/risk management policies, requirements, and procedures",Risk Management,"7. Develop strategies for balancing risk factors, technical constraints, time, and personnel "
+SEC440,55,"Knowledge of Information assurance (IA) principles used to manage risks related to the use, processing, storage, and transmission of information or data",Information Assurance,"7. Develop strategies for balancing risk factors, technical constraints, time, and personnel capabilities"
+SEC440,92,"Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol and Internet Protocol [TCP/IP], Open System Interconnection model [OSI], Information Technology Infrastructure Library, v3 [ITIL])",Infrastructure Design,Analyze live network traffic for anomalies associated with security issues
+SEC440,93,Knowledge of packet-level analysis,Vulnerabilities Assessment,Analyze live network traffic for anomalies associated with security issues
+SEC440,154,Skill in analyzing network traffic capacity and performance characteristics,Capacity Management,Analyze live network traffic for anomalies associated with security issues
+SEC440,231,"Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol)",Network Management,Analyze live network traffic for anomalies associated with security issues
+SEC440,915,"Knowledge of front-end collection systems, including network traffic collection, filtering, and selection.",Information Systems/Network Security,Analyze live network traffic for anomalies associated with security issues
+FOR340,217,Skill in preserving evidence integrity according to standard operating procedures or national standards,Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,296,"Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise",External Awareness,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,340,Knowledge of types and collection of persistent data,Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,374,Skill in setting up a forensic workstation,Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,379,Skill in using common digital forensics tools and techniques,Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,381,"Skill in using forensic tool suites (e.g. EnCase, Sleuthkit, Forensic Tool Kit [FTK])",Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,890,"Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems)",Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,1093,"Knowledge of common forensic tool configuration and support applications (e.g., VMWare, Wireshark)",Computer Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  
+FOR340,346,"Knowledge of which system files (e.g. log files, registry files, configuration files) contain relevant information and where to find those system files",Computer Forensics,2. Critically evaluate digital forensic exams methodologies for the most effective analysis practice
+FOR340,1044,Skill in identifying forensic footprints,Computer Forensics,2. Critically evaluate digital forensic exams methodologies for the most effective analysis practice
+FOR340,1086,"Knowledge of data carving tools and techniques (e.g., Foremost)",Computer Forensics,2. Critically evaluate digital forensic exams methodologies for the most effective analysis practice
+FOR340,888,Knowledge of types of digital forensics data and how to recognize them,Computer Forensics,2. Critically evaluate digital forensic exams methodologies for the most effective analysis practice. 
+FOR340,361,Skill in gathering and analyzing all-source information in support of indications and warnings,Reasoning,3. Analyze and evaluate results from various forensics techniques and be able to merge findings into a comprehensive description
+FOR340,366,Skill in law enforcement report writing,Technical Documentation,4. Articulate complex technical forensic topics and findings in an ?expert? report to audiences with varying levels of technical and digital forensics experience
+FOR340,367,Skill in multi-disciplined intelligence report writing,Writing,4. Articulate complex technical forensic topics and findings in an ?expert? report to audiences with varying levels of technical and digital forensics experience
+FOR340,376,Skill in talking to others to convey information effectively,Oral Communication,4. Articulate complex technical forensic topics and findings in an ?expert? report to audiences with varying levels of technical and digital forensics experience
+FOR340,252,"Knowledge of and experience in Insider Threat investigations, reporting, investigative tools and laws/regulations",Computer Network Defense,5. Design an investigation process that follows best practices for digital forensics 
+FOR340,302,"Knowledge of investigative implications of hardware, operating systems, and network technologies",Computer Forensics,5. Design an investigation process that follows best practices for digital forensics 
+FOR340,369,"Skill in collecting, processing, packaging, transporting and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data.",Forensics,1. Conduct digital forensic exams on common operating systems while documenting the process and justifying decisions/actions  (forensics
+FOR320,287,"Knowledge of file system Implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extentsion [EXT])",Operating Systems,"2. Analyze and parse the FAT filesystem, the NTFS filesystem, and the EXT filesystem , 3. Articulate technical topics including FAT/NTFS/HFS/EXT into quick reference guides that describe how to forensically Process files systems"
+FOR320,1087,"Skill in deep analysis of captured malicious code (e.g., malware forensics)",Computer Network Defense,"4. Using incident response and digital forensic tools, perform both a static and dynamic analysis of malware"
+FOR320,1029,Knowledge of malware analysis concepts and methodology,Computer Network Defense,"4. Using incident response and digital forensic tools, perform both a static and dynamic analysis of malware "
+FOR320,1096,"Knowledge of malware analysis tools (e.g., Oily Debug, Ida Pro)",Computer Network Defense,"4. Using incident response and digital forensic tools, perform both a static and dynamic analysis of malware "
