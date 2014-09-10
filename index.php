@@ -71,7 +71,7 @@ include 'templates/head_template.html';
 				<h4 class="query_info">Example queries</h4>
 				<form method="POST" action="uploaded.php" enctype="multipart/form-data">
 					<input type="submit" name="submitOne" value="See Course Table" id="joinBtn" />
-					<input type="submit" name="submitTwo" value="See institution" id="joinBtn" />
+					<input type="submit" name="submitTwo" value="See Institution" id="joinBtn" />
 					<input type="submit" name="submitThree" value="KSA's satisfied by a Class" id="joinBtn" />
 					<p class="query_info">Enter a KSA</p><input type="text" name="ksaIn" width="100%" />
 					<input type="submit" name="submitFour" value="Get classes which satisfy" id="joinBtn" />

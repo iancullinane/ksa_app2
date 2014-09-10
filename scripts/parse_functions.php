@@ -106,6 +106,7 @@ function parseCSV(){
         $objReader = PHPExcel_IOFactory::createReader($inputFileType);
         $objReader->setLoadSheetsOnly($sheetname);
 
+        //load the file into the reader object
         $objPHPExcelReader = $objReader->load($inputFileName);
         
 
@@ -118,7 +119,7 @@ function parseCSV(){
             $objWriter->save($loadedSheetName.'.csv');
         }
 
-        $useSheet = 
+        
 
         progressResult("Result for: " . $_FILES['file']['name'] . "");
 
@@ -143,7 +144,7 @@ function parseCSV(){
 
 
                 //if row is 0 get the institution name
-                if($data[0] === 'Instititution'){
+                if($data[0] === 'Institution' || $data[0] === 'Instititution'){
                     $file['InstName'] = $data[1];
                     
 
@@ -173,7 +174,9 @@ function parseCSV(){
                         $data = fgetcsv($handle, 10000, ',');
                         $file['CourseName'] = $data[1];     
                         insert_course($file['CourseNumber'], $file['CourseName'], getID('*','institution', 'InstitutionName', $file['InstName']));
-                        progressResult($file['CourseNumber'] . $file['CourseName'] . " has been added to the database.");
+                        progressResult($file['CourseNumber'] . " " . $file['CourseName'] . " has been added to the database.");
+
+                        print_array($file);
                    } else {
                         $data = fgetcsv($handle, 10000, ',');
                         $file['CourseName'] = $data[1];

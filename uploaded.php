@@ -53,6 +53,7 @@ include 'templates/head_template.html';
 				include 'scripts/parse_functions.php';
 				include 'scripts/gui_functions.php';
 				include 'scripts/insert_functions.php';
+				include 'scripts/test_functions.php';
 				
 
 				/*upload_file($_FILES);*/
